@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/webservice/static/css/main.ef720f46.css",
-    "main.js": "/webservice/static/js/main.e1b0523b.js",
+    "main.css": "/webservice/static/css/main.ea3efcf8.css",
+    "main.js": "/webservice/static/js/main.3dff00b8.js",
     "static/media/newrender.mp4": "/webservice/static/media/newrender.341c6d6059b0fbdd5ed9.mp4",
     "static/media/alarmclock.gif": "/webservice/static/media/alarmclock.c9a83d250e0b71a32790.gif",
-    "static/media/patati.mp4": "/webservice/static/media/patati.06b87daef87e4711180f.mp4",
+    "static/media/Nala.mp4": "/webservice/static/media/Nala.de7bc8b8d59b099b43b4.mp4",
     "static/media/giphyone.gif": "/webservice/static/media/giphyone.92f35069e6c4e5aa860d.gif",
     "static/media/BrandSlogan.PNG": "/webservice/static/media/BrandSlogan.808014baf6f03260b2b5.PNG",
     "static/media/renderingthree.jpg": "/webservice/static/media/renderingthree.359807f72fb0f9a04a90.jpg",
@@ -40,11 +40,11 @@
     "static/media/imagenrepo5.webp": "/webservice/static/media/imagenrepo5.6b74b1c6a6fab77dfd5c.webp",
     "static/media/imagenrepo13.webp": "/webservice/static/media/imagenrepo13.f521d575857d0fda03f5.webp",
     "static/media/imagerepo1.webp": "/webservice/static/media/imagerepo1.9a00d01ead90f1684b0c.webp",
-    "main.ef720f46.css.map": "/webservice/static/css/main.ef720f46.css.map",
-    "main.e1b0523b.js.map": "/webservice/static/js/main.e1b0523b.js.map"
+    "main.ea3efcf8.css.map": "/webservice/static/css/main.ea3efcf8.css.map",
+    "main.3dff00b8.js.map": "/webservice/static/js/main.3dff00b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef720f46.css",
-    "static/js/main.e1b0523b.js"
+    "static/css/main.ea3efcf8.css",
+    "static/js/main.3dff00b8.js"
   ]
 }
